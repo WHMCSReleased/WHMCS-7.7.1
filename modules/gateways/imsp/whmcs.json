@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "imsp",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "IMSP",
+    "tagline": "A merchant payment gateway processor."
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https:\/\/www.whmcs.com\/"
+    }
+  ]
+}
